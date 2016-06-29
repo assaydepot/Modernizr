@@ -6,7 +6,6 @@ modernizr.min.js
 modernizr-test.js
 metadata.json
 build
-dist
 tmp
 .DS_Store
 .project
