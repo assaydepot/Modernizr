@@ -5,11 +5,11 @@ require 'rails-assets-modernizr/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rails-assets-modernizr"
-  spec.version       = RailsAssetsMoment::VERSION
+  spec.version       = RailsAssetsModernizr::VERSION
   spec.authors       = ["rails-assets.org"]
   spec.description   = ""
   spec.summary       = ""
-  spec.homepage      = "https://github.com/moment/moment"
+  spec.homepage      = "https://github.com/Modernizr/Modernizr"
 
   spec.files         = `find ./* -type f | cut -b 3-`.split($/)
   spec.require_paths = ["lib"]
